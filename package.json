@@ -1,0 +1,19 @@
+{
+  "name": "aws_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1677.0",
+    "mocha": "^10.7.3",
+    "serverless": "^4.1.23"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
