@@ -1,5 +1,5 @@
 #Vanity Numbers Generator
-This project provides a set of functions to generate, score, and select the best vanity numbers from a given phone number. A vanity number is a phone number that includes letters that spell out a word, making it easier to remember.
+#This project provides a set of functions to generate, score, and select the best vanity numbers from a given phone number. A vanity number is a phone number that includes letters that spell out a word, making it easier to remember.
 
 Features
 Generate Vanity Numbers: Convert a phone number into all possible letter combinations.
